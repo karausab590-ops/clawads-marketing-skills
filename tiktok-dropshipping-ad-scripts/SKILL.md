@@ -1,3 +1,12 @@
+---
+name: tiktok-dropshipping-ad-scripts
+description: "Write detailed TikTok ad scripts with shot-by-shot breakdowns for dropshipping. Use when planning TikTok video ads with specific hooks, demonstrations, and CTAs for e-commerce."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # tiktok-dropshipping-ad-scripts
 
 > Write scroll-stopping TikTok and Facebook video ad scripts for dropshipping products -- using the exact proven formulas that 7-figure dropshippers use to scale fast.

@@ -1,3 +1,12 @@
+---
+name: foundation-doc-sop
+description: "Generate comprehensive foundation documents (Avatar Sheet, Offer Brief, Necessary Beliefs) for any product before writing copy. Use when starting a new marketing campaign and need deep audience research."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Foundation Doc SOP by Mark Builds Brands
 
 **Category:** Copywriting / Direct Response

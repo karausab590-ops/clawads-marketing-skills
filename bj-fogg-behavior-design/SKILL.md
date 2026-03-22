@@ -1,3 +1,12 @@
+---
+name: bj-fogg-behavior-design
+description: "Design behavior change using BJ Fogg's B=MAP model (Behavior = Motivation + Ability + Prompt). Use when optimizing conversion funnels, onboarding flows, or habit-forming product experiences."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # BJ Fogg Behavior Design (B=MAP Framework)
 
 **Category:** Conversion / Copywriting / Psychology

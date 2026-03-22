@@ -1,3 +1,12 @@
+---
+name: russell-brunson-funnel-scripts
+description: "Write funnel copy using Russell Brunson's scripts from DotCom Secrets and Expert Secrets. Use when building sales funnels, webinar presentations, or opt-in pages."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Russell Brunson Funnel Scripts
 
 Write high-converting funnel copy for any stage of your sales funnel using Russell Brunson's proven frameworks from *DotCom Secrets*, *Expert Secrets*, and *Traffic Secrets*. Brunson built ClickFunnels to $100M+ ARR and has generated over $1B in revenue using these frameworks.

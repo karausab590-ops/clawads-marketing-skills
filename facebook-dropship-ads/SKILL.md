@@ -1,3 +1,12 @@
+---
+name: facebook-dropship-ads
+description: "Write high-converting Facebook ad copy for dropshipping products. Use when creating Facebook/Meta ad campaigns including primary text, headlines, and creative briefs for e-commerce."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # facebook-dropship-ads
 
 > Facebook & Instagram Cold Traffic Ad Copy for Dropshippers — Dan Kennedy-inspired formulas adapted for ecom impulse buyers.

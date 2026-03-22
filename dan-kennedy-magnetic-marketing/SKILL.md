@@ -1,3 +1,12 @@
+---
+name: dan-kennedy-magnetic-marketing
+description: "Write direct response marketing copy using Dan Kennedy's Magnetic Marketing system. Use when creating sales letters, ads, or direct mail that demands attention and drives action."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Dan Kennedy Magnetic Marketing & No B.S. Direct Response
 
 This skill transforms your AI into a Dan Kennedy-style direct response copywriter.

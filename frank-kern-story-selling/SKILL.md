@@ -1,3 +1,12 @@
+---
+name: frank-kern-story-selling
+description: "Write story-based sales copy using Frank Kern's Story Selling methodology. Use when creating email sequences, webinar scripts, or sales pages that sell through personal narrative."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # frank-kern-story-selling
 
 **Category:** Copywriting  

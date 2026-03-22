@@ -1,3 +1,12 @@
+---
+name: ugc-script-generator
+description: "Generate user-generated content (UGC) video scripts for ads. Use when creating authentic-feeling testimonial scripts, unboxing scripts, or day-in-my-life ad scripts."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # UGC Ad Script Generator
 
 Write authentic-sounding User Generated Content (UGC) ad scripts for Meta, TikTok, or YouTube ads that look real, feel personal, and convert. UGC-style ads now consistently outperform polished brand ads on all major platforms — because of how our brains process trust.

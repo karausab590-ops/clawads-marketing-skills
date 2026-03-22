@@ -1,3 +1,12 @@
+---
+name: john-caples-headline-writer
+description: "Write proven headlines using John Caples' tested advertising formulas. Use when creating headlines for ads, landing pages, emails, or any content where the headline determines success."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # John Caples Headline Writer
 
 Generate 10 high-converting headlines for any product, landing page, or ad using John Caples' scientifically tested headline formulas from *Tested Advertising Methods* (1932, revised 1997). Caples was the first direct response copywriter to systematically TEST headlines at scale — running split tests on millions of mail pieces and measuring exact response rates. His findings are the foundation of modern headline writing.

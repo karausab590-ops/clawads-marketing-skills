@@ -1,3 +1,12 @@
+---
+name: ryan-deiss-cvo
+description: "Optimize customer value using Ryan Deiss's Customer Value Optimization (CVO) framework. Use when mapping customer journeys, creating lead magnets, tripwires, or maximizing lifetime value."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Ryan Deiss Customer Value Optimization (CVO) Funnel
 
 **Framework by:** Ryan Deiss, Co-Founder of DigitalMarketer

@@ -1,3 +1,12 @@
+---
+name: dropship-winning-product-test
+description: "Create systematic product testing frameworks for dropshipping. Use when evaluating potential winning products, planning ad tests, or analyzing product-market fit signals."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Dropship Winning Product Ad Testing Framework
 
 **Category:** Ads / Ecommerce  

@@ -1,3 +1,12 @@
+---
+name: jeff-walker-product-launch-formula
+description: "Plan and write product launch sequences using Jeff Walker's Product Launch Formula (PLF). Use when launching a new product, course, or service with a structured pre-launch, launch, and post-launch sequence."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Jeff Walker's Product Launch Formula (PLF) — Launch Sequence Writer
 
 **Category:** Copywriting / Email / Funnels

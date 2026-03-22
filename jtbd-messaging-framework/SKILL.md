@@ -1,3 +1,12 @@
+---
+name: jtbd-messaging-framework
+description: "Create messaging frameworks using the Jobs-To-Be-Done (JTBD) methodology. Use when developing positioning, value propositions, or customer research based on what jobs customers hire your product to do."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Jobs to Be Done (JTBD) Messaging Framework
 
 **Category:** Copywriting / Research / Positioning

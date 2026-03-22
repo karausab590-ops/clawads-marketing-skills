@@ -1,3 +1,12 @@
+---
+name: dropship-upsell-crosssell-scripts
+description: "Write upsell and cross-sell copy for dropshipping stores. Use when creating post-purchase offers, bundle deals, order bump copy, or thank-you page upsells."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Dropshipping Upsell & Cross-Sell Script System
 
 Write post-purchase upsell offers, order bump scripts, and cross-sell sequences that turn a one-time buyer into a 2x or 3x order - using the exact frameworks used by 7-figure dropshipping stores. Average order value (AOV) is the #1 lever in dropshipping that most people ignore. Getting someone to buy once is expensive. Getting them to buy again in the same checkout session is almost free.

@@ -1,3 +1,12 @@
+---
+name: vsl-writer
+description: "Write complete Video Sales Letter (VSL) scripts that convert viewers into buyers. Use when creating video sales presentations, webinar pitches, or long-form video ads."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # VSL Writer â Video Sales Letter Framework
 
 **Skill ID:** vsl-writer  
