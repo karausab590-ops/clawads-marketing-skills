@@ -1,6 +1,6 @@
 ---
 name: donald-miller-storybrand
-description: "Clarify your brand messaging using Donald Miller's StoryBrand 7-part framework. Use when creating brand scripts, website copy, or any messaging that positions the customer as the hero."
+description: "Clarify your brand messaging using Donald Miller's StoryBrand 7-part framework. Position your customer as the hero and your brand as the guide."
 metadata:
   author: clawads
   version: "2.0"

@@ -1,6 +1,6 @@
 ---
 name: ryan-deiss-cvo
-description: "Optimize customer value using Ryan Deiss's Customer Value Optimization (CVO) framework. Use when mapping customer journeys, creating lead magnets, tripwires, or maximizing lifetime value."
+description: "Maximize customer lifetime value using Ryan Deiss's Customer Value Optimization framework. Map your value ladder, build ascension campaigns, and write retention sequences."
 metadata:
   author: clawads
   version: "2.0"

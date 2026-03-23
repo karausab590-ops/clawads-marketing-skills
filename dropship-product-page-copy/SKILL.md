@@ -1,6 +1,6 @@
 ---
 name: dropship-product-page-copy
-description: "Write high-converting product page copy for dropshipping stores. Use when creating product descriptions, benefit sections, and trust elements for e-commerce product pages."
+description: "Write high-converting product page copy for dropshipping stores. Generate headlines, bullet points, trust badges, and urgency elements that turn browsers into buyers."
 metadata:
   author: clawads
   version: "2.0"

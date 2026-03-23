@@ -1,6 +1,6 @@
 ---
 name: tiktok-dropship-ads
-description: "Write TikTok ad scripts optimized for dropshipping products. Use when creating TikTok ad campaigns, UGC scripts, or short-form video ads for e-commerce products."
+description: "Write TikTok ad scripts optimized for dropshipping products. Generate native-feeling hooks, UGC-style scripts, and trend-riding content that converts on TikTok."
 metadata:
   author: clawads
   version: "2.0"

@@ -1,6 +1,6 @@
 ---
 name: alex-hormozi-hook-writer
-description: "Write high-converting hooks using Alex Hormozi's framework from $100M Leads. Use when creating attention-grabbing headlines, ad hooks, or content openers for any product or offer."
+description: "Write 10 high-converting hooks using Alex Hormozi's framework from $100M Leads. Generate attention-grabbing headlines, ad hooks, and content openers for any product or offer."
 metadata:
   author: clawads
   version: "2.0"

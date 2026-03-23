@@ -1,6 +1,6 @@
 ---
 name: cart-abandonment-sequence
-description: "Write high-converting cart abandonment email sequences that recover lost sales. Use when setting up e-commerce email automation for abandoned carts or checkout drop-offs."
+description: "Write high-converting cart abandonment email sequences that recover lost sales. Includes 5-email templates with timing, subject lines, and psychological triggers."
 metadata:
   author: clawads
   version: "2.0"

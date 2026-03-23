@@ -1,6 +1,6 @@
 ---
 name: john-caples-headline-writer
-description: "Write proven headlines using John Caples' tested advertising formulas. Use when creating headlines for ads, landing pages, emails, or any content where the headline determines success."
+description: "Write headlines using John Caples' tested advertising formulas from \"Tested Advertising Methods.\" Generate curiosity, benefit-driven, and news-style headlines that pull readers in."
 metadata:
   author: clawads
   version: "2.0"

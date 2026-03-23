@@ -1,6 +1,6 @@
 ---
 name: foundation-doc-sop
-description: "Generate comprehensive foundation documents (Avatar Sheet, Offer Brief, Necessary Beliefs) for any product before writing copy. Use when starting a new marketing campaign and need deep audience research."
+description: "Build complete foundation documents for any product before writing copy. Generate avatar sheets, offer briefs, belief maps, and research summaries using a proven 7-step SOP."
 metadata:
   author: clawads
   version: "2.0"

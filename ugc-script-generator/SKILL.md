@@ -1,6 +1,6 @@
 ---
 name: ugc-script-generator
-description: "Generate user-generated content (UGC) video scripts for ads. Use when creating authentic-feeling testimonial scripts, unboxing scripts, or day-in-my-life ad scripts."
+description: "Write UGC (User Generated Content) video scripts for ads. Generate authentic-sounding testimonial scripts, unboxing flows, and \"day in my life\" product integration scripts."
 metadata:
   author: clawads
   version: "2.0"

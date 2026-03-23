@@ -1,6 +1,6 @@
 ---
 name: tiktok-dropshipping-ad-scripts
-description: "Write detailed TikTok ad scripts with shot-by-shot breakdowns for dropshipping. Use when planning TikTok video ads with specific hooks, demonstrations, and CTAs for e-commerce."
+description: "Write detailed TikTok video ad scripts for dropshipping with shot-by-shot breakdowns. Includes hook variations, demo sequences, and CTA formats proven to convert."
 metadata:
   author: clawads
   version: "2.0"

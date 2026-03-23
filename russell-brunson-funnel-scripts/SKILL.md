@@ -1,6 +1,6 @@
 ---
 name: russell-brunson-funnel-scripts
-description: "Write funnel copy using Russell Brunson's scripts from DotCom Secrets and Expert Secrets. Use when building sales funnels, webinar presentations, or opt-in pages."
+description: "Write funnel copy using Russell Brunson's frameworks from DotCom Secrets and Expert Secrets. Generate perfect webinar scripts, tripwire offers, and value ladder sequences."
 metadata:
   author: clawads
   version: "2.0"

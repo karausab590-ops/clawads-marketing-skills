@@ -1,6 +1,6 @@
 ---
 name: vsl-writer
-description: "Write complete Video Sales Letter (VSL) scripts that convert viewers into buyers. Use when creating video sales presentations, webinar pitches, or long-form video ads."
+description: "Write Video Sales Letters (VSLs) using proven direct response frameworks. Generate complete VSL scripts with hooks, story arcs, proof stacks, closes, and slide-by-slide outlines."
 metadata:
   author: clawads
   version: "2.0"

@@ -1,6 +1,6 @@
 ---
 name: perry-belcher-21-step-sales-letter
-description: "Write complete sales letters using Perry Belcher's 21-step formula. Use when creating long-form sales pages, VSLs, or any direct response copy that follows a proven conversion structure."
+description: "Write complete sales letters following Perry Belcher's proven 21-step formula. Generate each section from headline to close with fill-in templates and real examples."
 metadata:
   author: clawads
   version: "2.0"

@@ -1,6 +1,6 @@
 ---
 name: frank-kern-story-selling
-description: "Write story-based sales copy using Frank Kern's Story Selling methodology. Use when creating email sequences, webinar scripts, or sales pages that sell through personal narrative."
+description: "Write story-selling emails and launch sequences using Frank Kern's Mass Control framework. Includes the 4 Day Cash Machine email template and content warm-up series."
 metadata:
   author: clawads
   version: "2.0"

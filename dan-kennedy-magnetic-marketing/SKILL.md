@@ -1,6 +1,6 @@
 ---
 name: dan-kennedy-magnetic-marketing
-description: "Write direct response marketing copy using Dan Kennedy's Magnetic Marketing system. Use when creating sales letters, ads, or direct mail that demands attention and drives action."
+description: "Write direct response copy using Dan Kennedy's \"No B.S.\" Magnetic Marketing principles. Create offers, sales letters, and ads that compel action."
 metadata:
   author: clawads
   version: "2.0"

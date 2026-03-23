@@ -1,6 +1,6 @@
 ---
 name: facebook-dropship-ads
-description: "Write high-converting Facebook ad copy for dropshipping products. Use when creating Facebook/Meta ad campaigns including primary text, headlines, and creative briefs for e-commerce."
+description: "Write Facebook ad copy optimized for dropshipping products. Generate scroll-stopping primary text, headlines, and descriptions across multiple ad formats."
 metadata:
   author: clawads
   version: "2.0"

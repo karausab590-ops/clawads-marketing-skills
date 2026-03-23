@@ -1,6 +1,6 @@
 ---
 name: gary-halbert-boron-letters
-description: "Write direct response copy using Gary Halbert's principles from The Boron Letters. Use when crafting sales letters, direct mail, or any copy that needs raw persuasive power."
+description: "Write compelling direct mail and sales copy using Gary Halbert's techniques from The Boron Letters. Master A-pile mail, starving crowd targeting, and irresistible offers."
 metadata:
   author: clawads
   version: "2.0"

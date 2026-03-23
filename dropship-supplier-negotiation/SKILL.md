@@ -1,6 +1,6 @@
 ---
 name: dropship-supplier-negotiation
-description: "Write professional supplier negotiation scripts for dropshipping businesses. Use when contacting suppliers, negotiating prices, MOQs, or establishing wholesale partnerships."
+description: "Write professional supplier negotiation emails and scripts for dropshipping. Templates for price negotiation, MOQ reduction, exclusive deals, and payment terms."
 metadata:
   author: clawads
   version: "2.0"

@@ -1,6 +1,6 @@
 ---
 name: dropship-upsell-crosssell-scripts
-description: "Write upsell and cross-sell copy for dropshipping stores. Use when creating post-purchase offers, bundle deals, order bump copy, or thank-you page upsells."
+description: "Write upsell and cross-sell copy for dropshipping stores. Generate post-purchase offers, bundle deals, and \"frequently bought together\" copy that increases AOV."
 metadata:
   author: clawads
   version: "2.0"

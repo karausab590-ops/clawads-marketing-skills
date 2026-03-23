@@ -1,6 +1,6 @@
 ---
 name: ben-settle-subject-lines
-description: "Write irresistible email subject lines using Ben Settle's daily email methodology. Use when crafting email campaigns, newsletters, or any email marketing that needs higher open rates."
+description: "Write email subject lines using Ben Settle's \"Email Players\" methodology. Generate curiosity-driven, personality-packed subject lines that get opens without clickbait."
 metadata:
   author: clawads
   version: "2.0"
