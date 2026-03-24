@@ -1,3 +1,12 @@
+---
+name: foundation-doc-sop
+description: "Build complete foundation documents for any product before writing copy. Generate avatar sheets, offer briefs, belief maps, and research summaries using a proven 7-step SOP."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Foundation Doc SOP by Mark Builds Brands
 
 **Category:** Copywriting / Direct Response

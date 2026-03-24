@@ -1,3 +1,12 @@
+---
+name: cart-abandonment-sequence
+description: "Write high-converting cart abandonment email sequences that recover lost sales. Includes 5-email templates with timing, subject lines, and psychological triggers."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Cart Abandonment Email Sequence
 
 Write a 3-email cart abandonment sequence for any ecommerce product. Recover lost sales with emails that remind, overcome objections, and close with urgency.

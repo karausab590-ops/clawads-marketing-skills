@@ -1,3 +1,12 @@
+---
+name: gary-halbert-boron-letters
+description: "Write compelling direct mail and sales copy using Gary Halbert's techniques from The Boron Letters. Master A-pile mail, starving crowd targeting, and irresistible offers."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Gary Halbert Boron Letters Copywriting System
 
 Write copy that grabs attention, builds unstoppable desire, and forces action - using Gary Halbert's battle-tested principles from *The Boron Letters*. Halbert is widely considered the greatest direct-response copywriter who ever lived. His letters, written to his son from a federal prison in Boron, California, contain the most raw and honest copywriting wisdom ever committed to paper. His clients paid him $25,000+ per letter - and made millions.

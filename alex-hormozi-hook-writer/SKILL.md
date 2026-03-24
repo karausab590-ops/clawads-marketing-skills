@@ -1,3 +1,12 @@
+---
+name: alex-hormozi-hook-writer
+description: "Write 10 high-converting hooks using Alex Hormozi's framework from $100M Leads. Generate attention-grabbing headlines, ad hooks, and content openers for any product or offer."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Alex Hormozi Hook Writer
 
 Write 10 high-converting hooks using Alex Hormozi's hook framework from *$100M Leads*. Hormozi built multiple 8-figure businesses and teaches that the hook is the single most important element of any piece of content or marketing - because without attention, nothing else matters.

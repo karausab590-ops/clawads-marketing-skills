@@ -1,3 +1,12 @@
+---
+name: ben-settle-subject-lines
+description: "Write email subject lines using Ben Settle's \"Email Players\" methodology. Generate curiosity-driven, personality-packed subject lines that get opens without clickbait."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Ben Settle Subject Line Writer
 
 Generate 10 high-converting email subject lines using Ben Settle's daily email philosophy. Settle ran a 7-figure publishing business almost entirely on email — sending a new email every single day — with open rates that outperformed industry averages because of his unconventional approach to subject lines and email writing.

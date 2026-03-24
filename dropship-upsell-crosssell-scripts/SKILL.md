@@ -1,3 +1,12 @@
+---
+name: dropship-upsell-crosssell-scripts
+description: "Write upsell and cross-sell copy for dropshipping stores. Generate post-purchase offers, bundle deals, and \"frequently bought together\" copy that increases AOV."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Dropshipping Upsell & Cross-Sell Script System
 
 Write post-purchase upsell offers, order bump scripts, and cross-sell sequences that turn a one-time buyer into a 2x or 3x order - using the exact frameworks used by 7-figure dropshipping stores. Average order value (AOV) is the #1 lever in dropshipping that most people ignore. Getting someone to buy once is expensive. Getting them to buy again in the same checkout session is almost free.
@@ -26,9 +35,9 @@ The top 1% of dropshipping stores don't just have better products. They have bet
 
 ### Format 1: The Order Bump (Pre-Purchase Add-On)
 
-The order bump sits on the checkout page, above the "Complete Order" button. It's a checkbox offer. Typically converts at 10-30%.
+The order bump sits on the checkout page, above the Complete Order button. Typically converts at 10-30%.
 
-**The psychology:** The customer is already in "yes mode" - they've committed to buying. The brain's buying resistance is already lowered. An order bump that feels like a natural companion to their purchase gets accepted almost automatically.
+**The psychology:** The customer is already in yes mode - they've committed to buying. The brain's buying resistance is already lowered. An order bump that feels like a natural companion to their purchase gets accepted almost automatically.
 
 **What makes an order bump work:**
 - Price is 20-40% of the main product price (feels small by comparison)
@@ -39,20 +48,16 @@ The order bump sits on the checkout page, above the "Complete Order" button. It'
 
 **Order Bump Template:**
 
-```
 [ ] YES - Add [COMPANION PRODUCT] to my order for just $[PRICE]!
 
-[HEADLINE: What they'll gain]
-"Add [PRODUCT NAME] and [specific benefit] - without [pain/effort they want to avoid]."
+Headline: Add [PRODUCT NAME] and [specific benefit] - without [pain/effort they want to avoid].
 
-[ONE LINE BODY]: Most people who buy [MAIN PRODUCT] also add [COMPANION PRODUCT] because [reason - usually: completes it, protects it, speeds up results, or solves the obvious next problem].
+Most people who buy [MAIN PRODUCT] also add [COMPANION PRODUCT] because [reason].
 
 Normally $[REGULAR PRICE]. Add to your order right now for just $[DISCOUNTED PRICE].
-```
 
 **Real Example (posture corrector store):**
 
-```
 [ ] YES - Add the Posture Strengthening Guide to my order for just $9!
 
 "Finally fix the ROOT cause of bad posture - not just the symptoms"
@@ -60,7 +65,6 @@ Normally $[REGULAR PRICE]. Add to your order right now for just $[DISCOUNTED PRI
 Most people who buy the posture corrector also add this guide because wearing a corrector without strengthening the muscles means you'll always depend on it. This 15-minute daily protocol activates the exact muscles that hold your spine in position naturally.
 
 Normally $27. Add to your order right now for just $9.
-```
 
 ---
 
@@ -68,60 +72,46 @@ Normally $27. Add to your order right now for just $9.
 
 This page appears immediately AFTER the customer completes payment. They don't need to enter their card again - one click adds it to the same transaction. This is the highest-converting upsell format.
 
-**The psychology:** The customer just made a decision and spent money. There's a short window (the "buying trance") where they feel excited and justified. This window lasts about 90 seconds. Your upsell page must load fast and get to the point immediately.
+**The psychology:** The customer just made a decision and spent money. There's a short window (the buying trance) where they feel excited and justified. This window lasts about 90 seconds. Your upsell page must load fast and get to the point immediately.
 
 **Structure of a high-converting OTO page:**
 
-**Step 1: Interrupt and congratulate (3 seconds)**
-Confirm the purchase. Make them feel smart for buying. Then immediately pivot to the offer.
+Step 1: Interrupt and congratulate (3 seconds) - Confirm the purchase. Make them feel smart for buying. Then immediately pivot to the offer.
 
-**Step 2: The "what about" problem (5-10 seconds)**
-Surface the next obvious problem they will face with the main product. This is the gap the upsell fills.
+Step 2: The what about problem (5-10 seconds) - Surface the next obvious problem they will face with the main product. This is the gap the upsell fills.
 
-**Step 3: The bridge (10-15 seconds)**
-Introduce the upsell as the natural solution to that gap.
+Step 3: The bridge (10-15 seconds) - Introduce the upsell as the natural solution to that gap.
 
-**Step 4: Stack the value, reveal the price**
-List what they get. Hit the regular price. Then hit the special one-time price.
+Step 4: Stack the value, reveal the price - List what they get. Hit the regular price. Then hit the special one-time price.
 
-**Step 5: One-click CTA + urgency**
-Make it clear this offer only exists right now, in this moment.
+Step 5: One-click CTA + urgency - Make it clear this offer only exists right now, in this moment.
 
 **OTO Script Template:**
 
-```
 WAIT - Your order is confirmed. Before you go, [FIRST NAME]...
 
-[HEADLINE]
-"You just made a great decision getting [MAIN PRODUCT]. But most people who buy it hit one problem we didn't warn them about..."
+You just made a great decision getting [MAIN PRODUCT]. But most people who buy it hit one problem we didn't warn them about...
 
-[THE PROBLEM]
-"[Specific obstacle they'll face with the main product]. And when that happens, [negative consequence]."
+[Specific obstacle they'll face with the main product]. And when that happens, [negative consequence].
 
-[THE BRIDGE]
-"That's exactly why we created [UPSELL PRODUCT]. It [core function] so you [specific result] - without [pain/effort]."
+That's exactly why we created [UPSELL PRODUCT]. It [core function] so you [specific result] - without [pain/effort].
 
-[VALUE STACK]
 Here's what you're getting:
 - [Benefit 1]
 - [Benefit 2]
 - [Benefit 3]
 
-[PRICE REVEAL]
 We normally sell [UPSELL PRODUCT] for $[REGULAR PRICE]. But since you're a customer and you're seeing this right now, you can add it to your order for just $[DISCOUNTED PRICE] - with one click.
 
-[CTA BUTTON TEXT]: "Yes! Add [PRODUCT] to My Order - Just $[PRICE]"
+CTA BUTTON: "Yes! Add [PRODUCT] to My Order - Just $[PRICE]"
 
-[BELOW BUTTON - DOWNSELL LINK]
 No thanks, I'll pass on this special offer and pay full price later.
-```
 
 **Real Example (resistance band set):**
 
-```
 WAIT - Your order is confirmed. Before you go...
 
-"You just made a great decision getting the Pro Resistance Band Set. But most people who buy it hit one problem we didn't warn them about..."
+You just made a great decision getting the Pro Resistance Band Set. But most people who buy it hit one problem we didn't warn them about...
 
 They don't know which exercises to do.
 
@@ -133,14 +123,13 @@ Here's what you're getting:
 - 30 progressive daily workouts (10-25 minutes each)
 - Video demonstrations for all 47 exercises
 - Printable tracking calendar
-- "Quick burn" 8-minute routines for days you're short on time
+- Quick burn 8-minute routines for days you're short on time
 
 We normally sell the 30-Day Band Body Program for $37. But since you're a customer and you're seeing this right now, you can add it to your order for just $17 - with one click.
 
-[YES BUTTON]: "Yes! Add the 30-Day Program - Just $17"
+CTA: Yes! Add the 30-Day Program - Just $17
 
 No thanks, I'll figure it out on my own.
-```
 
 ---
 
@@ -148,17 +137,13 @@ No thanks, I'll figure it out on my own.
 
 Sent 1-3 days after purchase. Goal is to bring the customer back for a second purchase - a related product, a refill, an upgrade, or a bundle.
 
-**The psychology:** A customer who just bought from you is 5-9x more likely to buy again than a cold prospect. The first 72 hours after purchase is the highest-intent window. Don't waste it with a generic "hope you enjoy your product" email.
+**The psychology:** A customer who just bought from you is 5-9x more likely to buy again than a cold prospect. The first 72 hours after purchase is the highest-intent window. Don't waste it with a generic hope you enjoy your product email.
 
 **3-Email Cross-Sell Sequence:**
 
-**Email 1 (Day 1 - "Setup" Email)**
+Email 1 (Day 1 - Setup Email)
 Subject: Your [PRODUCT] is on its way - here's what to do when it arrives
 
-Goal: Build excitement, confirm they made a great choice, plant the seed for the cross-sell without selling yet.
-
-Body:
-```
 [FIRST NAME], your [PRODUCT] just shipped.
 
 While you're waiting, I wanted to share something most customers don't figure out until their second order...
@@ -170,15 +155,10 @@ Quick heads up: a lot of people who buy [PRODUCT] end up coming back for [CROSS-
 Watch your inbox - I'll send tracking info and a quick start guide tomorrow.
 
 [Name / Brand]
-```
 
-**Email 2 (Day 3 - "Experience Check" Email)**
+Email 2 (Day 3 - Experience Check)
 Subject: How's the [PRODUCT] treating you?
 
-Goal: Confirm positive experience, surface the next pain point, introduce the cross-sell.
-
-Body:
-```
 [FIRST NAME], you should have [PRODUCT] by now.
 
 Quick question: have you [specific first action they would take with the product]?
@@ -192,22 +172,17 @@ Most people notice [specific result] right away. But then they hit the same wall
 [Link: Get [CROSS-SELL PRODUCT] - $[PRICE] (Free shipping, same as your last order)]
 
 [Name / Brand]
-```
 
-**Email 3 (Day 5 - "Social Proof + Urgency" Email)**
+Email 3 (Day 5 - Social Proof + Urgency)
 Subject: [NUMBER] people who bought [MAIN PRODUCT] also got this...
 
-Goal: Close the cross-sell with social proof and light urgency.
-
-Body:
-```
 [FIRST NAME], I wanted to share something interesting.
 
 Of the last [NUMBER] customers who bought [MAIN PRODUCT], [PERCENTAGE OR NUMBER] of them also ordered [CROSS-SELL PRODUCT] within the first week.
 
-Here's why they did it: [3-sentence explanation of the combination benefit - what happens when you use both together that you can't get from either one alone]
+Here's why they did it: [3-sentence explanation of the combination benefit]
 
-[QUOTE FROM REAL CUSTOMER if available, or use format: "Exactly what I needed to get [specific result]" - [First name, location]]
+[QUOTE FROM REAL CUSTOMER if available]
 
 I'm not sure how long we'll have [CROSS-SELL PRODUCT] in stock at this price - it's our fastest moving item right now.
 
@@ -216,7 +191,6 @@ I'm not sure how long we'll have [CROSS-SELL PRODUCT] in stock at this price - i
 [Name / Brand]
 
 P.S. - If you already ordered, ignore this. And if you have questions about your original order, just reply to this email.
-```
 
 ---
 
@@ -230,7 +204,6 @@ The simplest upsell. Works especially well for consumables (supplements, beauty,
 
 **Quantity Upsell Script Template:**
 
-```
 UPGRADE YOUR ORDER - Customers Who Buy [NUMBER] Save $[AMOUNT]
 
 You're getting [PRODUCT] today. Smart choice.
@@ -243,25 +216,24 @@ Why do they do it?
 [REASON 2 - gift angle: perfect to give to [mom/friend/partner] who has the same problem]
 [REASON 3 - savings: at $[per-unit price] each instead of $[regular price], it's the obvious choice]
 
-[SINGLE UNIT]: 1x [Product] - $[Price]
-[DOUBLE]: 2x [Product] - $[Price] (Save $[Amount]) ← MOST POPULAR
-[TRIPLE]: 3x [Product] - $[Price] (Save $[Amount]) ← BEST VALUE
+1x [Product] - $[Price]
+2x [Product] - $[Price] (Save $[Amount]) - MOST POPULAR
+3x [Product] - $[Price] (Save $[Amount]) - BEST VALUE
 
-[CTA: Upgrade My Order]
-```
+CTA: Upgrade My Order
 
 ---
 
 ## Upsell Checklist (Run Before Publishing Any Offer)
 
-- [ ] Is the upsell product directly related to the main product? (Same problem or natural next step)
-- [ ] Is the upsell price 20-50% of the main product price? (Higher feels like a new decision; lower feels cheap)
-- [ ] Does the headline lead with a benefit or problem - NOT the product name?
-- [ ] Is there a clear "reason why" this offer only exists right now?
-- [ ] Does the CTA button say something specific? (Not just "Add to Cart" - say what they're getting)
-- [ ] Is there a downsell or "no thanks" link that keeps the customer moving forward?
-- [ ] For email cross-sells: does each email lead with value before the pitch?
-- [ ] Have you A/B tested the headline and price point? (Even one test can reveal 20-40% conversion swings)
+- Is the upsell product directly related to the main product? (Same problem or natural next step)
+- Is the upsell price 20-50% of the main product price? (Higher feels like a new decision; lower feels cheap)
+- Does the headline lead with a benefit or problem - NOT the product name?
+- Is there a clear reason why this offer only exists right now?
+- Does the CTA button say something specific? (Not just Add to Cart - say what they're getting)
+- Is there a downsell or no thanks link that keeps the customer moving forward?
+- For email cross-sells: does each email lead with value before the pitch?
+- Have you A/B tested the headline and price point? (Even one test can reveal 20-40% conversion swings)
 
 ---
 

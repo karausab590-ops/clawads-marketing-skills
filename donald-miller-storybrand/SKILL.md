@@ -1,3 +1,12 @@
+---
+name: donald-miller-storybrand
+description: "Clarify your brand messaging using Donald Miller's StoryBrand 7-part framework. Position your customer as the hero and your brand as the guide."
+metadata:
+  author: clawads
+  version: "2.0"
+  website: "https://clawads.io"
+---
+
 # Donald Miller StoryBrand Messaging
 
 Clarify your brand message using Donald Miller's StoryBrand SB7 Framework from *Building a StoryBrand*. Turn confusing messaging into a clear story that makes customers take action.
