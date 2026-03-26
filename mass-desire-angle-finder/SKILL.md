@@ -2,14 +2,14 @@
 name: mass-desire-angle-finder
 description: "Find untapped ad angles for any winning product using deep Reddit/forum research. Input your product + desire + avatar, get a full research report and 5+ battle-tested angles with hooks, outlines, and test priority."
 metadata:
-  author: clawads
+  author: Anthony Camacho
   version: "2.0"
   website: "https://clawads.io"
 ---
 
 # Mass Desire Angle Finder
 
-Turn one winning ad into 5+ new angles to scale from $300-500/day to $1K+/day. Based on Anthony's "Angle Loading" framework for direct response advertising and dropshipping.
+Turn one winning ad into 5+ new angles to scale from $300-500/day to $1K+/day. Based on Anthony Camacho's "Angle Loading" framework for direct response advertising and dropshipping.
 
 ## Required Input From User
 
